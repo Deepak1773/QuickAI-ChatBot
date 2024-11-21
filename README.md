@@ -8,8 +8,6 @@ SmartBot is a state-of-the-art chatbot powered by Gemini AI and built using Stre
 - **Requirements**
 - **Installation**
 - **Usage**
-- **Contributing**
-- **License**
   
 ## Features
 
@@ -28,7 +26,7 @@ SmartBot is a state-of-the-art chatbot powered by Gemini AI and built using Stre
 
 ```
 - Create a virtual environment:
-
+# python -m venv venv
 # On Windows use `venv\Scripts\activate
 
 ```
