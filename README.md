@@ -2,6 +2,12 @@
 
 SmartBot is a state-of-the-art chatbot powered by Gemini AI and built using Streamlit. This application offers advanced natural language understanding to provide insightful, context-aware responses to user queries. A key feature of this project is the ability to export conversations as PDF files, making it ideal for professional sharing or keeping a detailed record of discussions.
 
+## Website's URL
+
+You can explore the deployed chatbot here URL: 
+https://quickai-chatbot.streamlit.app/
+
+
 ## Table of Contents
 
 - **Features**
